@@ -1,0 +1,33 @@
+h1 {
+    color: rgba(5, 165, 13, 0.788);
+}
+
+ul {
+    border: 5px solid;
+    width: 25%;
+    margin: auto;
+    text-align: center;
+    list-style: none;
+    padding: 0;
+
+}
+
+ul li {
+    border: 5px outset;
+    display: inline-block;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 75%;
+    height: 30%;
+}
+#City {
+    display: block;
+    margin: auto;
+    width: 75%;
+    height: 60%;
+}
+h2 {
+    margin: auto;
+}
