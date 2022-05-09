@@ -24,10 +24,25 @@ img {
 }
 #City {
     display: block;
+    width: 80%;
     margin: auto;
-    width: 75%;
     height: 60%;
 }
 h2 {
     margin: auto;
+}
+title {
+    margin: auto;
+}
+p {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+#Rio {
+    display: block;
+    margin: auto;
+    width: 80%;
+    height: 60%;
 }
